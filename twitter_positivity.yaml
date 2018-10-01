@@ -1,0 +1,4 @@
+---
+runtime: python37
+service: twitter-positivity
+api_version: 1
